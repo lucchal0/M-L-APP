@@ -1,5 +1,15 @@
 # M&L App – Study Support Platform
 
+## 👥 Team Members
+
+- **Giulia Ambiveri** 
+- **Sergio Boffi**   
+- **Giulia De Marco**  
+- **Giorgia Lillo**   
+- **Alessandro Lucchesi** 
+- **Lamberto Ragnolini**  
+- **Francesc Jordi Sacco**  
+
 ## 📚 Overview
 
 **M&L (Meet & Learn)** is a platform designed to help USI students connect for academic support. Created as part of the **Software Atelier 2** course at the Faculty of Informatics, Università della Svizzera italiana (USI), the app facilitates peer-to-peer assistance through tutoring and material sharing.
@@ -27,16 +37,6 @@ The app allows users to:
 - **Average SUS score: 90**
 - Positive feedback on app intuitiveness and concept
 - Improvements based on test feedback: added home screen, enhanced color contrast, and virtual keyboard input
-
-## 👥 Team Members
-
-- **Giulia Ambiveri** 
-- **Sergio Boffi**   
-- **Giulia De Marco**  
-- **Giorgia Lillo**   
-- **Alessandro Lucchesi** 
-- **Lamberto Ragnolini**  
-- **Francesc Jordi Sacco**  
 
 ## 📁 Project Files
 
