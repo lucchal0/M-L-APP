@@ -30,13 +30,13 @@ The app allows users to:
 
 ## 👥 Team Members
 
-- **Giulia Ambiveri** – 22-981-187  
-- **Sergio Boffi** – 22-980-098  
-- **Giulia De Marco** – 22-981-377  
-- **Giorgia Lillo** – 22-980-171  
-- **Alessandro Lucchesi** – 22-980-205  
-- **Lamberto Ragnolini** – 22-980-262  
-- **Francesc Jordi Sacco** – 22-981-161  
+- **Giulia Ambiveri** 
+- **Sergio Boffi**   
+- **Giulia De Marco**  
+- **Giorgia Lillo**   
+- **Alessandro Lucchesi** 
+- **Lamberto Ragnolini**  
+- **Francesc Jordi Sacco**  
 
 ## 📁 Project Files
 
